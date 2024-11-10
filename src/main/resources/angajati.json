@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ionel",
+    "post": "gunoier sef",
+    "data_angajarii":"2023-04-07",
+    "salar": "2300"
+  },
+  {
+    "nume": "Ionela",
+    "post": "politsit",
+    "data_angajarii":"2024-11-07",
+    "salar": "4300"
+  },
+  {
+    "nume": "Ionelica",
+    "post": "santierist director",
+    "data_angajarii":"2023-04-07",
+    "salar": "5300"
+  },
+  {
+    "nume": "Ionica",
+    "post": "programator",
+    "data_angajarii":"2024-04-07",
+    "salar": "6300"
+  },
+  {
+    "nume": "Marean",
+    "post": "lingvist",
+    "data_angajarii":"2023-11-07",
+    "salar": "3300"
+  }
+]
